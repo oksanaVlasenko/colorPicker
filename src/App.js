@@ -7,7 +7,7 @@ import MainScreen from './components/MainScreen/MainScreen'
 
 function App() {
   return (
-    <Router>
+    <Router basename="/colorPicker/" >
       <Route exact path="/">
         <div className="App">
           <MainScreen />
