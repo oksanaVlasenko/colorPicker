@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/oksanaVlasenko/colorPicker/static/css/main.6e709801.chunk.css",
-    "main.js": "/oksanaVlasenko/colorPicker/static/js/main.e6ec94c1.chunk.js",
-    "main.js.map": "/oksanaVlasenko/colorPicker/static/js/main.e6ec94c1.chunk.js.map",
-    "runtime-main.js": "/oksanaVlasenko/colorPicker/static/js/runtime-main.72eddbb5.js",
-    "runtime-main.js.map": "/oksanaVlasenko/colorPicker/static/js/runtime-main.72eddbb5.js.map",
-    "static/js/2.36265ed3.chunk.js": "/oksanaVlasenko/colorPicker/static/js/2.36265ed3.chunk.js",
-    "static/js/2.36265ed3.chunk.js.map": "/oksanaVlasenko/colorPicker/static/js/2.36265ed3.chunk.js.map",
-    "static/js/3.e218b464.chunk.js": "/oksanaVlasenko/colorPicker/static/js/3.e218b464.chunk.js",
-    "static/js/3.e218b464.chunk.js.map": "/oksanaVlasenko/colorPicker/static/js/3.e218b464.chunk.js.map",
+    "main.js": "/oksanaVlasenko/colorPicker/static/js/main.e532db64.chunk.js",
+    "main.js.map": "/oksanaVlasenko/colorPicker/static/js/main.e532db64.chunk.js.map",
+    "runtime-main.js": "/oksanaVlasenko/colorPicker/static/js/runtime-main.e10cc504.js",
+    "runtime-main.js.map": "/oksanaVlasenko/colorPicker/static/js/runtime-main.e10cc504.js.map",
+    "static/js/2.a4c6f77e.chunk.js": "/oksanaVlasenko/colorPicker/static/js/2.a4c6f77e.chunk.js",
+    "static/js/2.a4c6f77e.chunk.js.map": "/oksanaVlasenko/colorPicker/static/js/2.a4c6f77e.chunk.js.map",
+    "static/js/3.dc851a04.chunk.js": "/oksanaVlasenko/colorPicker/static/js/3.dc851a04.chunk.js",
+    "static/js/3.dc851a04.chunk.js.map": "/oksanaVlasenko/colorPicker/static/js/3.dc851a04.chunk.js.map",
     "index.html": "/oksanaVlasenko/colorPicker/index.html",
     "static/css/main.6e709801.chunk.css.map": "/oksanaVlasenko/colorPicker/static/css/main.6e709801.chunk.css.map",
-    "static/js/2.36265ed3.chunk.js.LICENSE.txt": "/oksanaVlasenko/colorPicker/static/js/2.36265ed3.chunk.js.LICENSE.txt",
+    "static/js/2.a4c6f77e.chunk.js.LICENSE.txt": "/oksanaVlasenko/colorPicker/static/js/2.a4c6f77e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/oksanaVlasenko/colorPicker/static/media/bg-img.0f0dda1b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.72eddbb5.js",
-    "static/js/2.36265ed3.chunk.js",
+    "static/js/runtime-main.e10cc504.js",
+    "static/js/2.a4c6f77e.chunk.js",
     "static/css/main.6e709801.chunk.css",
-    "static/js/main.e6ec94c1.chunk.js"
+    "static/js/main.e532db64.chunk.js"
   ]
 }
