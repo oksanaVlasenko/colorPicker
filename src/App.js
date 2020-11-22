@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { Switch, Route } from "react-router-dom";
 import './App.css';
 import RangeSlider from './components/SliderScreen/RangeSlider';
 import MainScreen from './components/MainScreen/MainScreen'
@@ -7,7 +7,7 @@ import MainScreen from './components/MainScreen/MainScreen'
 
 function App() {
   return (
-    <Router basename="/colorPicker/" >
+    <Switch >
       <Route exact path="/">
         <div className="App">
           <MainScreen />
@@ -18,7 +18,7 @@ function App() {
           <RangeSlider/>
         </div>
       </Route>
-    </Router>
+    </Switch>
   );
 }
 
