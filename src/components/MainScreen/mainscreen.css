@@ -1,0 +1,20 @@
+.Main {
+  height: 70vh;
+  width: auto;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto Slab", serif;
+  text-transform: uppercase;
+  color: rgb(250, 250, 250);
+  font-size: calc(40px + 2vmin);
+  text-shadow: -6px -6px 4px rgba(40, 71, 95, 0.4);
+}
+
+.Main-text {
+  color: #120929;
+  font-size: calc(10px + 2vmin);
+  padding: 0 1em;
+}
