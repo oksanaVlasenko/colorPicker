@@ -35,10 +35,11 @@ const RangeSlider = () =>{
     }
     
     function clearState  ()  {
+        let col;
         if (allColor.length === 1 || allColor.length === 0) {
             setShowSlider(false)
-        } else {
-            const col = allColor[allColor.length-2];
+        }  else {
+            col = allColor[allColor.length-2];
         setRangevalred(col.rangevalred);
         setRangevalgreen(col.rangevalgreen);
         setRangevalblue(col.rangevalblue);
