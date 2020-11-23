@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/colorPicker/static/css/main.297528ed.chunk.css",
-    "main.js": "/colorPicker/static/js/main.0e7ce664.chunk.js",
-    "main.js.map": "/colorPicker/static/js/main.0e7ce664.chunk.js.map",
-    "runtime-main.js": "/colorPicker/static/js/runtime-main.57a30809.js",
-    "runtime-main.js.map": "/colorPicker/static/js/runtime-main.57a30809.js.map",
-    "static/js/2.b9fa6986.chunk.js": "/colorPicker/static/js/2.b9fa6986.chunk.js",
-    "static/js/2.b9fa6986.chunk.js.map": "/colorPicker/static/js/2.b9fa6986.chunk.js.map",
-    "static/js/3.e218b464.chunk.js": "/colorPicker/static/js/3.e218b464.chunk.js",
-    "static/js/3.e218b464.chunk.js.map": "/colorPicker/static/js/3.e218b464.chunk.js.map",
-    "index.html": "/colorPicker/index.html",
-    "static/css/main.297528ed.chunk.css.map": "/colorPicker/static/css/main.297528ed.chunk.css.map",
-    "static/js/2.b9fa6986.chunk.js.LICENSE.txt": "/colorPicker/static/js/2.b9fa6986.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/colorPicker/static/media/bg-img.0f0dda1b.jpg"
+    "main.css": "/oksanavlasenko/oksanavlasenko.github.io/static/css/main.75aed09d.chunk.css",
+    "main.js": "/oksanavlasenko/oksanavlasenko.github.io/static/js/main.0e7ce664.chunk.js",
+    "main.js.map": "/oksanavlasenko/oksanavlasenko.github.io/static/js/main.0e7ce664.chunk.js.map",
+    "runtime-main.js": "/oksanavlasenko/oksanavlasenko.github.io/static/js/runtime-main.40fcab12.js",
+    "runtime-main.js.map": "/oksanavlasenko/oksanavlasenko.github.io/static/js/runtime-main.40fcab12.js.map",
+    "static/js/2.b9fa6986.chunk.js": "/oksanavlasenko/oksanavlasenko.github.io/static/js/2.b9fa6986.chunk.js",
+    "static/js/2.b9fa6986.chunk.js.map": "/oksanavlasenko/oksanavlasenko.github.io/static/js/2.b9fa6986.chunk.js.map",
+    "static/js/3.e218b464.chunk.js": "/oksanavlasenko/oksanavlasenko.github.io/static/js/3.e218b464.chunk.js",
+    "static/js/3.e218b464.chunk.js.map": "/oksanavlasenko/oksanavlasenko.github.io/static/js/3.e218b464.chunk.js.map",
+    "index.html": "/oksanavlasenko/oksanavlasenko.github.io/index.html",
+    "static/css/main.75aed09d.chunk.css.map": "/oksanavlasenko/oksanavlasenko.github.io/static/css/main.75aed09d.chunk.css.map",
+    "static/js/2.b9fa6986.chunk.js.LICENSE.txt": "/oksanavlasenko/oksanavlasenko.github.io/static/js/2.b9fa6986.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/oksanavlasenko/oksanavlasenko.github.io/static/media/bg-img.0f0dda1b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.57a30809.js",
+    "static/js/runtime-main.40fcab12.js",
     "static/js/2.b9fa6986.chunk.js",
-    "static/css/main.297528ed.chunk.css",
+    "static/css/main.75aed09d.chunk.css",
     "static/js/main.0e7ce664.chunk.js"
   ]
 }
