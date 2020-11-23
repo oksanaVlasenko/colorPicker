@@ -7,6 +7,7 @@ import MainScreen from './components/MainScreen/MainScreen'
 
 function App() {
   return (
+    <>
     <Switch >
       <Route exact path="/">
         <div className="App">
@@ -19,6 +20,7 @@ function App() {
         </div>
       </Route>
     </Switch>
+    </>
   );
 }
 
