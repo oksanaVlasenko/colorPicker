@@ -11,7 +11,7 @@ const RangeSlider = () =>{
     const [rangevalgreen, setRangevalgreen] = useState(initialState);
     const [rangevalblue, setRangevalblue] = useState(initialState);
     const [showSlider, setShowSlider] = useState(true)
-    const [allColor, setColor] = useState([])
+    const [allColor, setColor] = useState([{rangevalred,rangevalgreen, rangevalblue}])
 
     const showSliders = () => {
         setShowSlider(!showSlider)
@@ -35,16 +35,16 @@ const RangeSlider = () =>{
     }
     
     function clearState  ()  {
-        let col;
-        if (allColor.length === 1 || allColor.length === 0) {
-            setShowSlider(false)
-        }  else {
+        let col; 
+        // if (allColor.length === 1 || allColor.length === 0) {
+        //     setShowSlider(false)
+        // }  else {
             col = allColor[allColor.length-2];
         setRangevalred(col.rangevalred);
         setRangevalgreen(col.rangevalgreen);
         setRangevalblue(col.rangevalblue);
         setShowSlider(false)
-        }
+       // }
       };
     
     return (

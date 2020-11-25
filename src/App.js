@@ -9,7 +9,7 @@ import Nav from "./components/Navigation/Nav";
 function App() {
   return (
     <>
-    <Nav/>
+    <Nav className="App"/>
     <Switch >
       <Route exact path="/">
         <div className="App">

@@ -1,42 +1,50 @@
 html {
-  overflow: hidden;
+	overflow: hidden;
 }
 body {
-  padding-top: 2px;
+	padding-top: 2px;
 }
 
 body::after {
-  content: "";
-  width: 200%;
-  height: 200%;
-  top: -50%;
-  left: -50%;
-  bottom: 0;
-  right: 0;
-  position: fixed;
-  z-index: -1;
-  background-image: url("./components/image/bg-img.jpg");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  opacity: 0.7;
+	content: '';
+	width: 200%;
+	height: 200%;
+	top: -50%;
+	left: -50%;
+	bottom: 0;
+	right: 0;
+	position: fixed;
+	z-index: -1;
+	background-image: url('./components/image/bg-img.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	opacity: 0.7;
+}
+
+.App-set {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
 }
 
 .App {
-  text-align: center;
-  height: 80vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+	text-align: center;
+	height: 80vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
 }
 
 .App-cont {
-  margin: 0 5em;
-  padding: 10px 40px;
-  border-radius: 20px;
-  box-shadow: inset 1px 1px 4px rgba(34, 60, 80, 0.4),
-    0px 6px 5px 0px rgba(34, 60, 80, 0.4),
-    12px 12px 12px -10px rgba(34, 60, 80, 0.4);
+	margin: 0 5em;
+	padding: 10px 40px;
+	border-radius: 20px;
+	box-shadow: inset 1px 1px 4px rgba(34, 60, 80, 0.4),
+		0px 6px 5px 0px rgba(34, 60, 80, 0.4),
+		12px 12px 12px -10px rgba(34, 60, 80, 0.4);
 }
